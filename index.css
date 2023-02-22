@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    width: 100vw;
+    height: 800px;
+    position: relative;
+    background-image: url("weather.jpg.webp");
+}
+
+h2 {
+    background-color:rgb(46, 45, 45);
+    width: 40%;
+    margin: auto;
+}
